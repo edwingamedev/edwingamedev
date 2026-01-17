@@ -3,7 +3,7 @@
 <p>I am passionate about games, programming and pixel art.</p>
 <p>I have been a developer since 2010 and have focused on games and mobile applications since 2013.</p>
 
-<p>As a Senior Unity Developer since 2018, I have successfully led over 30 projects, including augmented reality and virtual reality applications, as well as various games.</p>
+<p>As a Senior Unity Developer since 2018, I have successfully led over 40 projects, including augmented reality and virtual reality applications, as well as various games.</p>
 <p>I pride myself on my adaptability to different codebases and my extensive experience with Git, Unity, C#, and design patterns.</p>
 <p>Additionally, I have developed and published several projects for both iOS and Android platforms.</p>
 
