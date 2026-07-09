@@ -17,5 +17,5 @@
 <p>  
 <a href="https://www.linkedin.com/in/edwinjonesholanda"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><br/>
 <a href="https://instagram.com/edwingamedev"><img src="https://img.shields.io/badge/Instagram-EB3468?style=for-the-badge&logo=instagram&logoColor=white"></a><br/>
-<a href="https://gamejolt.com/@edwingamedev"><img src="https://s.gjcdn.net/assets/e88e2b55.png"></a><br/>
+<a href="https://gamejolt.com/@edwingamedev"><img src="https://edwingamedev.github.io/assets/images/gamejolt.png"></a><br/>
 </p>
