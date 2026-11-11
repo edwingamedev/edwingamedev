@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Edwin 👋</h1>
 
 <p align="center">
-  <strong>Software Engineer | Senior Unity Developer | Game Developer</strong>
+  <strong>Software Engineer | Senior Unity Developer | Full-Stack Development</strong>
 </p>
 
 <p align="center">
@@ -12,61 +12,107 @@
 <h2>👨‍💻 About Me</h2>
 
 <p>
-  I'm a software developer with over 15 years of programming experience,
-  specializing in game development, mobile applications, and interactive
-  software.
+  I'm a Software Engineer and Senior Unity Developer with over 15 years
+  of programming experience, specializing in game development,
+  mobile applications, and interactive software.
 </p>
 
 <p>
-  I've focused on games and mobile development since 2013 and have worked
-  as a Senior Unity Developer since 2018, contributing to and leading
-  over 40 projects, including mobile games, advergames, and interactive
-  applications published on iOS and Android.
+  I've focused on games and mobile development since 2013 and have
+  worked as a Senior Unity Developer since 2018, contributing to
+  and leading over 40 projects, including mobile games, advergames,
+  and interactive applications published on iOS and Android.
 </p>
 
 <p>
-  My work involves software architecture, gameplay systems, performance
-  optimization, backend integrations, and building maintainable,
-  reusable systems.
+  My experience includes software architecture, gameplay systems,
+  performance optimization, backend integrations, design patterns,
+  and developing reusable, maintainable systems.
 </p>
 
 <p>
-  I enjoy solving technical challenges, exploring different programming
-  paradigms, and expanding my skills beyond a single engine or framework.
+  Beyond game development, I build web applications and explore
+  full-stack software engineering, applying my experience to
+  frontend architecture, backend services, relational databases,
+  automated testing, and modern web technologies.
 </p>
 
-<h2>🚀 Beyond Game Development</h2>
+<h2>🚀 Software Engineering Projects</h2>
+
+<h3>Portfolio Website</h3>
 
 <p>
-  I'm expanding my experience into full-stack software engineering,
-  working with JavaScript, TypeScript, React, Node.js, REST APIs,
-  and PostgreSQL.
-</p>
-
-<p>
-  One of my ongoing personal projects is <strong>RPG Visualizer</strong>,
-  a full-stack application designed to manage and visualize tabletop
-  RPG campaigns through an interactive digital campaign book.
+  Designed and developed my
+  <a href="https://edwingamedev.github.io/">personal portfolio</a>
+  using Astro, TypeScript, Tailwind CSS, and modern browser APIs.
 </p>
 
 <p>
-  The project focuses on REST API design, relational database modeling,
-  backend architecture, automated testing, and modern frontend
-  development using React and TypeScript.
+  The project features reusable components, content-driven page
+  generation, responsive layouts, custom interactive components,
+  image and video galleries, and persistent themes.
+</p>
+
+<p>
+  Development also involved browser automation with Playwright,
+  performance analysis using Lighthouse, image optimization,
+  accessibility improvements, and static-site deployment
+  through GitHub Pages.
+</p>
+
+<h3>RPG Visualizer</h3>
+
+<p>
+  Developing a full-stack application for managing and visualizing
+  tabletop RPG campaigns through an interactive digital campaign book.
+</p>
+
+<p>
+  The backend uses Node.js, PostgreSQL, and REST APIs, with a
+  layered architecture, versioned SQL migrations, relational
+  integrity constraints, OpenAPI documentation, and automated
+  integration tests.
+</p>
+
+<p>
+  The frontend is being developed with React, TypeScript, and Vite,
+  focusing on reusable components and an immersive,
+  book-inspired user experience.
 </p>
 
 <h2>🛠️ Technologies & Skills</h2>
 
 <ul>
-  <li><strong>Languages:</strong> C#, JavaScript, TypeScript, SQL</li>
-  <li><strong>Game & Mobile:</strong> Unity, Android, iOS</li>
-  <li><strong>Frontend:</strong> HTML, CSS, React, Vite</li>
-  <li><strong>Backend & Databases:</strong> Node.js, REST APIs, PostgreSQL</li>
-  <li><strong>Engineering:</strong> Software Architecture, Design Patterns,
-  Git, Automated Testing, Performance Optimization</li>
+  <li>
+    <strong>Languages:</strong>
+    C#, TypeScript, JavaScript, SQL, HTML, CSS
+  </li>
+  <li>
+    <strong>Game & Mobile Development:</strong>
+    Unity, Android, iOS, Gameplay Systems, Performance Optimization
+  </li>
+  <li>
+    <strong>Frontend:</strong>
+    Astro, React (learning), Tailwind CSS, Responsive Design,
+    DOM APIs, Accessibility
+  </li>
+  <li>
+    <strong>Backend & Databases:</strong>
+    Node.js, REST APIs, PostgreSQL, Database Modeling, SQL Migrations
+  </li>
+  <li>
+    <strong>Testing & Tooling:</strong>
+    Playwright, Node.js Test Runner, ESLint, Prettier,
+    Git, Vite, Lighthouse
+  </li>
+  <li>
+    <strong>Software Engineering:</strong>
+    Software Architecture, Design Patterns, Reusable Components,
+    Automated Testing, Debugging, Performance Optimization
+  </li>
 </ul>
 
-<h2>📂 Projects & Portfolio</h2>
+<h2>📂 Explore My Work</h2>
 
 <ul>
   <li>
@@ -85,24 +131,12 @@
 
 <p>
   <a href="https://www.linkedin.com/in/edwinjonesholanda">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-      height="28"
-    />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/>
   </a>
   <a href="https://instagram.com/edwingamedev">
-    <img
-      src="https://img.shields.io/badge/Instagram-EB3468?style=for-the-badge&logo=instagram&logoColor=white"
-      alt="Instagram"
-      height="28"
-    />
+    <img src="https://img.shields.io/badge/Instagram-EB3468?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="28"/>
   </a>
   <a href="https://gamejolt.com/@edwingamedev">
-    <img
-      src="https://edwingamedev.github.io/assets/images/gamejolt.png"
-      alt="Game Jolt"
-      height="26"
-    />
+    <img src="https://edwingamedev.github.io/assets/images/gamejolt.png" alt="Game Jolt" height="26"/>
   </a>
 </p>
