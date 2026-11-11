@@ -37,7 +37,7 @@
   automated testing, and modern web technologies.
 </p>
 
-<h2>🚀 Software Engineering Projects</h2>
+<h2>💻 Software Engineering Projects</h2>
 
 <h3>Portfolio Website</h3>
 
